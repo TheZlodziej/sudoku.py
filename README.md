@@ -3,7 +3,7 @@
 
 # setup
 - download the files
-- run the code by typing 
+- run the code by typing: 
 ```python
 python3 sudoku.py
 ```
